@@ -53,7 +53,7 @@ Paste your Gemini API key
 Click Save Settings
 
 ## 💡 How It Works
-The extension injects a content script to extract readable text from articles (<article> tag or <p> elements).
+
 
 When you click "Summarize", it:
 
