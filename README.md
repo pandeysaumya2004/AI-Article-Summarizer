@@ -1,7 +1,7 @@
-#🚀 AI Summary for Articles – Chrome Extension
+# 🚀 AI Summary for Articles – Chrome Extension
 This Chrome Extension allows you to instantly summarize any article you are reading using Google's Gemini AI. You can choose between Brief, Detailed, or Bullet Point summaries. Ideal for researchers, students, or anyone wanting quick insights from online content.
 
-##🧠 Features
+## 🧠 Features
 🔍 Extracts article text from any webpage
 
 🤖 Summarizes content using Gemini 1.5 Flash API
