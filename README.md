@@ -8,11 +8,11 @@ This Chrome Extension allows you to instantly summarize any article you are read
 
 3. 🧵 Three summary modes:
 
-->Brief (2-3 lines)
+  ->Brief (2-3 lines)
 
-->Detailed
-
-->Bullet Points (5–7 bullets)
+  ->Detailed
+ 
+  ->Bullet Points (5–7 bullets)
 
 4. 📋 One-click Copy to Clipboard
 
@@ -52,7 +52,7 @@ Paste your Gemini API key
 
 Click Save Settings
 
-##💡 How It Works
+## 💡 How It Works
 The extension injects a content script to extract readable text from articles (<article> tag or <p> elements).
 
 When you click "Summarize", it:
