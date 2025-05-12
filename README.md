@@ -8,11 +8,11 @@ This Chrome Extension allows you to instantly summarize any article you are read
 
 3. 🧵 Three summary modes:
 
-  ->Brief (2-3 lines)
+  - Brief (2-3 lines)
 
-  ->Detailed
+  - Detailed
  
-  ->Bullet Points (5–7 bullets)
+  - Bullet Points (5–7 bullets)
 
 4. 📋 One-click Copy to Clipboard
 
